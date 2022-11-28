@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "California-hit",
+        "price": 20.00,
+        "imgUrl": "/imgs/california-hit.jpg"
+    },
+    {
+        "id": 2,
+        "name": "California-tempura",
+        "price": 20.00,
+        "imgUrl": "/imgs/california-tempura.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Philadelphia",
+        "price": 20.00,
+        "imgUrl": "/imgs/philadelphia.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Zapech-california",
+        "price": 20.00,
+        "imgUrl": "/imgs/zapech-california.jpg"
+    }
+]
